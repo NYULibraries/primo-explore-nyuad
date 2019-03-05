@@ -1,3 +1,5 @@
+# primo-explore-nyuad has been consolidated into the monorepo [primo-explore-views](https://github.com/NYULibraries/primo-explore-views)
+
 [![Github commits (since latest release)](https://img.shields.io/github/commits-since/NYULibraries/primo-explore-nyuad/latest.svg)](https://github.com/NYULibraries/primo-explore-nyuad/releases/latest)
 # NYU Abu Dhabi Primo-explore package
 
